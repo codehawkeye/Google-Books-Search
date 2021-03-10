@@ -1,9 +1,10 @@
 import React from "react";
 import Thumbnail from "../Thumbnail";
 import { Container, Row, Col } from "../Grid";
-import SaveBtn from "../SaveBtn";
+import SaveBtn from "../";
 import API from "../../utils/API";
 import "./style.css";
+import DeleteBtn from "../DeleteBtn"
 
 // This file exports both the List and ListItem components
 
