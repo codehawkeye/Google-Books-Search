@@ -1,7 +1,7 @@
 import React from "react";
 import Thumbnail from "../Thumbnail";
 import { Container, Row, Col } from "../Grid";
-import SaveBtn from "../";
+import SaveBtn from "..";
 import API from "../../utils/API";
 import "./style.css";
 import DeleteBtn from "../DeleteBtn"
